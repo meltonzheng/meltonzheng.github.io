@@ -12,3 +12,5 @@ Currently interested in
 3. your mom
 4. Compiling C++ to Wasm
 5. Medicine [lol] (https://github.com/meltonzheng/MCAT)
+
+Want more? [About Extended] ({%post_url 2021-11-12-about-extended%})
