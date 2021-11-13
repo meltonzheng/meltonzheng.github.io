@@ -27,6 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meltonzheng
 github_username:  meltonzheng
 
+domain: meltonzheng.github.io     # if you want to force HTTPS, put down the domain without the http: e.g. example.com
+url: https://meltonzheng.github.io # the base hostname & protocol for your site, e.g. http://example.com
+    # place folder name if site is served in subfolder
+
+github_baseurl: https://github.com/gojimmypi/gridster-jekyll-theme/ # required for the github-corner links
 # Build settings
 theme: minima
 plugins:
