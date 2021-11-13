@@ -1,8 +1,8 @@
 ---
-layout: post
 title:  "Starting RNA Velocity or Trying to Use Scanpy"
 date:   2021-11-12 18:10:00 -0800
-categories: research
+image: Scanpy_Logo_BrightFG.svg
+tags: [research]
 ---
 
 The first step...trying to get scanpy...
@@ -29,7 +29,7 @@ __init__.pxd in numpy.import_array()
 ImportError: numpy.core.multiarray failed to import
 {% endhighlight %}
 
-okay now for some reason... I am updating my visual studio to 2022, according to [this] (https://stackoverflow.com/questions/54366505/importerror-dll-load-failed-while-file-is-in-working-directory)
+okay now for some reason... I am updating my visual studio to 2022, according to [this](https://stackoverflow.com/questions/54366505/importerror-dll-load-failed-while-file-is-in-working-directory)
 
 LOOOOOOOOOOL ok I did when I just used the same link above to install h5py. thank the lord
 
