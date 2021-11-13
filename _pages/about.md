@@ -3,7 +3,7 @@ title: About
 image: melton-profile-white.jpg
 ---
 
-## Hi, I'm Melton.
+### Hi, I'm Melton.
 
 I stole this website from [Hasseb](https://github.com/Haseeb-Qureshi/haseeb-qureshi.github.io)
 
@@ -15,6 +15,6 @@ Currently interested in
 3. your mom
 4. Compiling C++ to Wasm
 5. Medicine [lol](https://github.com/meltonzheng/MCAT)
-6. Basic science research [here!] ({{ site.baseurl }}{% link _tags/research.html %})
+6. Basic science research [here!]({{ site.url }}{% link _tags/research.html %})
 
 Want more? [About Extended]({{ site.baseurl }}{% link _pages/about-extended.md %})

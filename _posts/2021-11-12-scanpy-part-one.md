@@ -3,6 +3,7 @@ title:  "Starting RNA Velocity or Trying to Use Scanpy"
 date:   2021-11-12 18:10:00 -0800
 image: Scanpy_Logo_BrightFG.svg
 tags: [research]
+featured: "true"
 ---
 
 The first step...trying to get scanpy...
