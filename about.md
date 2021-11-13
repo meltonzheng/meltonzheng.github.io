@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
@@ -11,6 +11,7 @@ Currently interested in
 2. Ethereum NFTs: my [address](https://etherscan.io/address/0x1e15F70C21e86538DbD762B675e256f000cd6a1c)
 3. your mom
 4. Compiling C++ to Wasm
-5. Medicine [lol] (https://github.com/meltonzheng/MCAT)
+5. Medicine [lol](https://github.com/meltonzheng/MCAT)
+6. Basic science research [here!] ({{ site.baseurl }}{% link research.md %})
 
-Want more? [About Extended] ({%post_url 2021-11-12-about-extended%})
+Want more? [About Extended]({{ site.baseurl }}{% link _about_stuff/about-extended.md %})

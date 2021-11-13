@@ -2,7 +2,7 @@
 layout: post
 title: "About Extended"
 date: 2021-11-12 14:29:00 -0800
-permalink: /about/extended/
+categories: personal test
 ---
 
 So you wanted to know more about me. I was born and raised in a suburban community east of LA near Pasadena. It was a community that was mostly Asian, so I had the pleasure of a highly competitive environment since I was born. My parents were also quite focused on education. Here's a pretty funny story… 
