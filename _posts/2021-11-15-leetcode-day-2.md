@@ -62,3 +62,7 @@ And with that I was able to get the right answer. What I didn't show was the wor
 ## Question 2: Largest Divisible Subset
 
 [Here is the next question.](https://leetcode.com/problems/largest-divisible-subset/)
+
+Holy cow this was so hard... I think I need to go back to the drawing board. : 11/16/2021
+
+I will come back in the future...
