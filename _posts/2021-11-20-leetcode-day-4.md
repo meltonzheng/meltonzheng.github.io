@@ -48,7 +48,7 @@ vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 {% endhighlight %}
 
 ## Best Time to Buy and Sell Stock
-{% starthighlight cpp %}
+{% highlight cpp %}
 int maxProfit(vector<int>& prices) {
         int index = 0;
         int smallest = INT_MAX;
