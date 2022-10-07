@@ -84,7 +84,7 @@ permalink: /:title/
 placeholder: images/placeholder.jpg
 profile: images/melton-profile-white.jpg
 timezone: UTC #America/Los_Angeles
-title: melton zheng :)
+title: Melton Zheng Leetcode Solutions
 title_separator: "-"
 url: https://meltonzheng.github.io
 
