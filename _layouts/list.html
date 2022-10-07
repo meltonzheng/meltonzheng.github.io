@@ -7,6 +7,9 @@ layout: default
     <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
       <div class="ui huge header">{{ site.title }}</div>
     </div>
+    <div class="ui input">
+      <input type="text" placeholder="Search">
+    </div>
     {% for page in site.posts limit:10 %}
       <div class="spacer">
         <div class="preview">
