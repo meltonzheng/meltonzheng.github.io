@@ -2,8 +2,8 @@
 layout: post
 title:  "Star Forcing Guide"
 date:   2024-6-24 10:11:19 -0700
-image: leetcode.svg
-tags: [leetcode]
+image: maplestory.svg
+tags: [maplestory]
 featured: "true"
 ---
 # Star Forcing Guide
@@ -20,17 +20,17 @@ It's how you can upgrade your equipment.
 
 Press enhance on your keyboard and you'll get a pop-up that looks like this
 
-![alt text](image.png)
+![alt text](../images/image.png)
 
 You then place a piece of equipment in it. 
 
-![alt text](image-1.png)
+![alt text](../images/image-1.png)
 
 Here you can see that the success rate to get 17 stars is 30%, chance of dropping to 15 stars is 67% and destruction (it's drops to 13 stars) is 2.1%
 
 If I succeed, I would get these stats
 
-![alt text](image-2.png)
+![alt text](../images/image-2.png)
 
 This magic attack would be a huge increase in my combat power, but my chance of succeeding is only 1 in 3 (on average). 
 
@@ -52,11 +52,11 @@ When you're first starting out, trying to kill bosses like lomien with combat po
 
 With no event, you're going to need 1 billion mesos going from 0 &rarr; 17 stars. 
 
-![alt text](image-4.png)
+![alt text](../images/image-4.png)
 
 On shiny day, it costs roughly half
 
-![alt text](image-5.png)
+![alt text](../images/image-5.png)
 
 Assuming it's level 150 gear, no starcatching and no safeguarding (Absolab).
 
