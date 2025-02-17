@@ -13,8 +13,28 @@ The neck surgery most likely involve a specific organ, which contains cells that
 A. Stains eosinophilic \
 B. Contains S-100 \
 C. Increases serum potassium \
-D. Decreases serum calcium  \
+D. Produces intrinsic factor  \
 E. Produces lipase
+
+<details>
+  <summary>Answer</summary>
+    E. Gastric Lipase is produced by chief cells in the stomach
+</details>
+
+# Question 2
+
+> difficulty: 4/10
+
+A 42-year-old woman presents to the clinic with fatigue, weight gain, constipation, and dry skin over the past several months. She also reports feeling unusually cold compared to others. Physical examination reveals periorbital puffiness, coarse skin, and delayed relaxation of deep tendon reflexes. Laboratory studies show:
+
+|     | Sarcoplasmic Reticulum Ca<sup>2+</sup>-ATPase activity | Phospholamban |  Lusitropy | Pulse Pressure |
+| -------- | ------- | ------- | ------- | ------- |
+| A  | ↑    | ↓ | ↑ | ↓ |
+| B | ↑     | ↓ | - |- |
+| C    | ↑    | ↓ | - |↑ |
+| D    | ↓    | ↑ | ↑ | - |
+| E    | ↓    | ↑ | ↓ |↓ |
+| F    | ↓    | ↑ | - |- |
 
 <details>
   <summary>Answer</summary>
