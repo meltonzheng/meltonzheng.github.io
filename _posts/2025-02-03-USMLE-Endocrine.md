@@ -40,3 +40,18 @@ A 42-year-old woman presents to the clinic with fatigue, weight gain, constipati
   <summary>Answer</summary>
 
 </details>
+
+# Question 2
+
+> difficulty: 4/10
+
+A 41-year-old woman presents to the clinic with complaints of progressive weight gain, fatigue, and easy bruising over the past 10 months. She reports that her face has become “fuller” and that she has developed fat accumulation around her upper back. Her elbows are darker than forearms. Which of the following would you expect to see?
+
+|     | CRH | ACTH |  ADH | Melanocytes |
+| -------- | ------- | ------- | ------- | ------- |
+| A  | ↓    | ↑ | ↑ | - |
+| B | ↑     | ↓ | ↓ |- |
+| C    | ↑    | ↓ | - |↑ |
+| D    | ↓    | ↑ | ↑ | ↑ |
+| E    | ↓    | ↑ | ↓ |↑ |
+| F    | ↓    | ↓ | - |↑ |
