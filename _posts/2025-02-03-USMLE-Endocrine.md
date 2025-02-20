@@ -41,7 +41,7 @@ A 42-year-old woman presents to the clinic with fatigue, weight gain, constipati
 
 </details>
 
-# Question 2
+# Question 3
 
 > difficulty: 4/10
 
@@ -55,3 +55,20 @@ A 41-year-old woman presents to the clinic with complaints of progressive weight
 | D    | ↓    | ↑ | ↑ | ↑ |
 | E    | ↓    | ↑ | ↓ |↑ |
 | F    | ↓    | ↓ | - |↑ |
+
+# Question 4
+
+> difficulty: ?/10
+
+In a state of hypercortisolism, which of the following would you expect as *compensation*?
+
+|     | Firing rate of vagus afferents | ACE activity |  Coagulation factor VIII activity | cAMP in vascular endothelium | Effective refractory period in cardiomyocytes |
+| -------- | ------- | ------- | ------- | ------- | ------- |
+| A  | ↑    | ↑ | ↑ | ↓ | - |
+| B | ↑     | ↓ | - |↓ | ↓ |
+| C    | ↑    | ↓ | - |↑ | - |
+| D    | ↓    | ↑ | ↑ | ↑ | - |
+| E    | ↓    | ↑ | ↓ |↑ | - |
+| F    | ↓    | ↓ | - |↑ | - |
+G. None of the above
+
