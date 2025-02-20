@@ -66,9 +66,10 @@ In a state of hypercortisolism, which of the following would you expect as *comp
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | A  | ↑    | ↑ | ↑ | ↓ | - |
 | B | ↑     | ↓ | - |↓ | ↓ |
-| C    | ↑    | ↓ | - |↑ | - |
-| D    | ↓    | ↑ | ↑ | ↑ | - |
-| E    | ↓    | ↑ | ↓ |↑ | - |
+| C    | ↑    | ↓ | - |↑ | ↓ |
+| D    | ↓    | ↑ | ↑ | ↑ | ↓ |
+| E    | ↓    | ↑ | ↓ |↑ | ↑ |
 | F    | ↓    | ↓ | - |↑ | - |
+
 G. None of the above
 
