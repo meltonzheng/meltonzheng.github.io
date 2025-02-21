@@ -73,3 +73,14 @@ In a state of hypercortisolism, which of the following would you expect as *comp
 
 G. None of the above
 
+# Question 5
+
+> difficulty: ?/10
+
+A 28-year-old woman presents with complaints of flank pain that radiates to groin. Laboratory tests reveal elevated serum calcium levels. She also reports menstrual irregularities and occasional galactorrhea. On examination, she has enlarged hands and facial features. She has also increased metanephrines. In the process for diagnosing her condition, there is a scan that uses a radioactive compound decayed from molybdenum-99. This compound is also used to study many different organs: which of the following would describe pathology of an organ that uses this same compound?
+
+A. Hematochezia in a newborn male \
+B. Balloon shaped heart on x-ray \
+C. Ventriculomegaly and decreased dendrites \
+D. Napkin-ring/apple-core shaped descending colon \
+E. Increased AP diameter
